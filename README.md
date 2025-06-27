@@ -45,10 +45,11 @@ To improve usability, readability, and performance, I **refactored** the entire 
 
 ---
 
-## 🧪 Before vs After Snapshot
+## OUTPUT
 
-### 📌 Before: Console-based Registration (Java)
-```java
-Scanner sc = new Scanner(System.in);
-System.out.println("Enter farmer name:");
-String name = sc.nextLine();
+![Image](https://github.com/user-attachments/assets/dd15edb7-26b9-40e0-90dc-85b24887e271)
+![Image](https://github.com/user-attachments/assets/96ce3969-b457-492f-b102-076a50d59563)
+![Image](https://github.com/user-attachments/assets/50e0234d-526d-4d63-bb37-4eaa07e65c5b)
+![Image](https://github.com/user-attachments/assets/e17fc5c4-fadc-42e9-a189-07a2e8730b54)
+![Image](https://github.com/user-attachments/assets/160bc4aa-5b8b-4b92-b4f3-19ef8274579d)
+![Image](https://github.com/user-attachments/assets/fa62dc05-b3cd-41c0-a410-c93102949140)
